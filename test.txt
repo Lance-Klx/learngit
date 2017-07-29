@@ -1,0 +1,6 @@
+脚本启动于 2017年07月29日 星期六 14时21分03秒
+]0;klx@klx: ~/learngit[01;32mklx@klx[00m:[01;34m~/learngit[00m$ I love study , but I must be quickly
+I：未找到命令
+]0;klx@klx: ~/learngit[01;32mklx@klx[00m:[01;34m~/learngit[00m$ exit
+
+脚本完成，于 2017年07月29日 星期六 14时22分00秒
